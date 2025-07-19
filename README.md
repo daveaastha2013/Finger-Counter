@@ -23,7 +23,7 @@ cd Finger-Counter
 pip install -r requirements.txt
 
 # Run the code
-python finger_counter.py
+python main.py
 ```
 ## Future Improvements
 - Add gesture recognition (e.g., thumbs up, okay symbol)
