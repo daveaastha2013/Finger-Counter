@@ -16,8 +16,8 @@ The demo for the same has been attached
 ## How to run
 ```
 # Clone the repo
-git clone https://github.com/yourusername/finger-counter.git
-cd Finger-Counter
+git clone https://github.com/daveaastha2013/finger_counter
+cd finger_counter
 
 # Install dependencies
 pip install -r requirements.txt
