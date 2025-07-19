@@ -10,7 +10,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3, wCam)
 cap.set(4, hCam)
 
-folderPath = "/home/aastha/finger_counter/fingers/" 
+folderPath = "/home/aastha/Finger-Counter/finger_images/" 
 fingerList = os.listdir(folderPath) 
 overlayList = []
 for imgPath in fingerList:
